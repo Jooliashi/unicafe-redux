@@ -1,6 +1,6 @@
 # unicafe redux
 
-This project is the Full Stack Open 2020 [part 6](https://fullstackopen.com/en/part6) uniafe exercise.
+This project is the Full Stack Open 2020 [part 6](https://fullstackopen.com/en/part6) unicafe exercise.
 
 And this project origin fork from https://github.com/fullstack-hy2020/unicafe-redux.
 
